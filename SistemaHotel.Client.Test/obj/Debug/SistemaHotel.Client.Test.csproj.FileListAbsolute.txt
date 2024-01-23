@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\SistemaHotel.Client.Test.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\SistemaHotel.Client.Test.pdb
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\obj\Debug\SistemaHotel.Client.Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\obj\Debug\SistemaHotel.Client.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\obj\Debug\SistemaHotel.Client.Test.csproj.CopyComplete
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\obj\Debug\SistemaHotel.Client.Test.dll
+C:\Users\user\source\repos\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel.Client.Test\obj\Debug\SistemaHotel.Client.Test.pdb
