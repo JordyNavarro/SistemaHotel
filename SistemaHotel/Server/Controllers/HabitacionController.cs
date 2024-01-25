@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemaHotel.Server.Models;
 using SistemaHotel.Server.Repositorio.Contratos;
-using SistemaHotel.Server.Repositorio.Implementacion;
 using SistemaHotel.Shared;
 
 namespace SistemaHotel.Server.Controllers

@@ -8330,9 +8330,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
       "projectName": "SistemaHotel.Server",
-      "projectPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\obj\\",
       "projectStyle": "PackageReference",
@@ -8357,11 +8357,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj": {
-              "projectPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj"
+            "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj"
             },
-            "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
-              "projectPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj"
+            "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj"
             }
           }
         }

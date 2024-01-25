@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SistemaHotel.Server.Models;
 using SistemaHotel.Server.Repositorio.Contratos;
-using System.Linq;
 using System.Linq.Expressions;
 
 namespace SistemaHotel.Server.Repositorio.Implementacion

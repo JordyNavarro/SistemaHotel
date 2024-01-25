@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9eArXVwi9Uv3B72JHcRDOVLiCuSc8pr8OcsUKuy8wAfiJeB4dOklC49N03Os/qQzb9jEEFKB2+wfV4vH4WHUFg==",
+  "dgSpecHash": "s0m6R0G6iuhuY5wXN8WUCl+awdJr9FuLsvFU6HwsaJBwlexVkNTATB6zo9N0FCpwdG79AKMoGEx/r8RmxYvDKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

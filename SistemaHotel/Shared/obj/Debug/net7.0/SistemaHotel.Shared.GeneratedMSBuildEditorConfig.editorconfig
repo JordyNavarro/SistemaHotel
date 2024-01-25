@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SistemaHotel.Shared
-build_property.ProjectDir = C:\Users\user\Source\Repos\JordyNavarro\SistemaHotel\SistemaHotel\Shared\
+build_property.ProjectDir = C:\Users\user\source\repos\JordyNavarro\SistemaHotel\SistemaHotel\Shared\

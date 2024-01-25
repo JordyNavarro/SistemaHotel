@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {}
+    "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
+    "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
         "projectName": "SistemaHotel.Shared",
-        "projectPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\obj\\",
         "projectStyle": "PackageReference",
