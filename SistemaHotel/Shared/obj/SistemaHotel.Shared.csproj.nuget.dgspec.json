@@ -11,7 +11,7 @@
         "projectName": "SistemaHotel.Shared",
         "projectPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Source\\Repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\JordyNavarro\\SistemaHotel\\SistemaHotel\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
